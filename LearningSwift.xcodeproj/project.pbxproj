@@ -12,6 +12,7 @@
 		7B52F4382988FF1B00ED4F11 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B52F4372988FF1B00ED4F11 /* Assets.xcassets */; };
 		7B52F43B2988FF1B00ED4F11 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B52F43A2988FF1B00ED4F11 /* Preview Assets.xcassets */; };
 		7B52F4422989BE1300ED4F11 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B52F4412989BE1300ED4F11 /* TextBootcamp.swift */; };
+		7B52F4442989C8F000ED4F11 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B52F4432989C8EF00ED4F11 /* ShapesBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		7B52F4372988FF1B00ED4F11 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B52F43A2988FF1B00ED4F11 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7B52F4412989BE1300ED4F11 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
+		7B52F4432989C8EF00ED4F11 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				7B52F4332988FF1900ED4F11 /* LearningSwiftApp.swift */,
 				7B52F4352988FF1900ED4F11 /* ContentView.swift */,
 				7B52F4412989BE1300ED4F11 /* TextBootcamp.swift */,
+				7B52F4432989C8EF00ED4F11 /* ShapesBootcamp.swift */,
 				7B52F4372988FF1B00ED4F11 /* Assets.xcassets */,
 				7B52F4392988FF1B00ED4F11 /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B52F4442989C8F000ED4F11 /* ShapesBootcamp.swift in Sources */,
 				7B52F4362988FF1900ED4F11 /* ContentView.swift in Sources */,
 				7B52F4422989BE1300ED4F11 /* TextBootcamp.swift in Sources */,
 				7B52F4342988FF1900ED4F11 /* LearningSwiftApp.swift in Sources */,
